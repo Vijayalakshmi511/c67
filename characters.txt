@@ -3,3 +3,7 @@
 Monkey
 
 Crocodile
+
+Frog
+Turtle
+Dolphin
